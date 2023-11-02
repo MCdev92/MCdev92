@@ -4,7 +4,7 @@ Hi 👋 My name is Manuel Corporan
 Backend Developer
 -----------------
 
-My name is Manuel Corporan, I was born in the Dominican Republic 🇩🇴 . I migrated to the U.S. in 2010 and am currently working towards achieving my career goals: I graduated from Chabot College with an Economics and Business Administration transfer degree and am currently working towards completing my bachelor of science degree in Business Administration (Information Technology Concentration) at CSU East Bay. I am a hard-working individual who thrives towards achieving any goals I set for myself. I love technology and building user friendly, world changing applications that can make an impact.
+I was born in the Dominican Republic 🇩🇴 . I migrated to the U.S. in 2010 and am currently working towards achieving my career goals: I graduated from Chabot College with an Economics and Business Administration transfer degree and am currently working towards completing my bachelor of science degree in Business Administration (Information Technology Concentration) at CSU East Bay. I am a hard-working individual who thrives towards achieving any goals I set for myself. I love technology and building user friendly, world changing applications that can make an impact.
 
 * 🌍  I'm based in San Lorenzo, CA
 * ✉️  You can contact me at [corporan.manuel@yahoo.com](mailto:corporan.manuel@yahoo.com)
